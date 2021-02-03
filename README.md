@@ -1,8 +1,9 @@
 ### Hi there I am Ali 👋
 
-![Ali's stats](https://github-readme-stats.vercel.app/api?username=crunchtime-ali&show_icons=true)
+<!-- See https://github.com/anuraghazra/github-readme-stats -->
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=crunchtime-ali&show_icons=true&bg_color=20,d86b4f,875491&text_color=fff&icon_color=ddd&title_color=ddd)
 
-## 📊 **This week's coding!**
+## 📊 **Weekly development breakdown!**
 <!--START_SECTION:waka-->
 ```text
 Other        14 hrs 13 mins  ████████████████████░░░░░   80.02 % 
