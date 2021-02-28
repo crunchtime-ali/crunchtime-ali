@@ -6,7 +6,7 @@
 ## 📊 **Weekly development breakdown!**
 <!--START_SECTION:waka-->
 ```text
-Week: 19 February, 2021 - 26 February, 2021
+Week: 20 February, 2021 - 27 February, 2021
 
 Other        14 hrs 13 mins  ████████████████████░░░░░   80.02 % 
 YAML         1 hr 46 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
