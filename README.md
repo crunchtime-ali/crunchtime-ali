@@ -6,7 +6,7 @@
 ## 📊 **Weekly development breakdown!**
 <!--START_SECTION:waka-->
 ```text
-Week: 18 May, 2021 - 25 May, 2021
+Week: 19 May, 2021 - 26 May, 2021
 
 Other   1 hr 58 mins    █████████████████████████   100.00 % 
 ```
